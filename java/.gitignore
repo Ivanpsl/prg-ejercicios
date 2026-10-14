@@ -1,0 +1,15 @@
+# Comp
+target/
+build/
+.gradle/
+*.class
+
+# Paquetes
+*.jar
+*.war
+
+# Excepcion para wrapper de Maven
+!.mvn/wrapper/maven-wrapper.jar
+
+# Errores de la mv
+hs_err_pid*.log
