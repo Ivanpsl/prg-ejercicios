@@ -3,19 +3,18 @@
 Ejercicios prácticos para aprender programación con explicaciones breves, y enlaces de utilidad
 
 
-## Como ver 
+### Como ver 
 
-### Opción 1: en el navegador, sin instalar nada
-
+##### En el navegador
 [![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Ivanpsl/prg-ejercicios)
 
-### Opción 2: clonar repositorio
+##### Clonar repositorio
 ```bash
    git clone https://github.com/TU-USUARIO/aprende-programacion.git
 ```
 
 
-## 💡 Dificultades
+### Dificultades
 
 | | Nivel | Para quién |
 |---|-------|------------|
@@ -25,7 +24,7 @@ Ejercicios prácticos para aprender programación con explicaciones breves, y en
 
 
 
-## 📁 Estructura 
+### Estructura 
 
 ```
 prg-ejercicios/
@@ -33,13 +32,14 @@ prg-ejercicios/
 └── html5/
 ```
 
-## 🤝 Contribuir
+### Contribuir
 - 🐛 [Avisar de un error/proponer ejercicios](../../issues/new)
 
-## 🔗 Recursos
+### Recursos
 
 - [dev.java](https://dev.java/learn/): tutoriales oficiales de Java.
 - [pildorasinformaticas](https://www.youtube.com/@pildorasinformaticas): canal de youtube con muchisimos cursos y ejemplos
 - [MDN Web Docs](https://developer.mozilla.org/es/): la referencia de HTML, CSS y JavaScript.
 
 ---
+
