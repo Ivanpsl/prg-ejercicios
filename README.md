@@ -2,10 +2,10 @@
 
 Recopilación de ejercicios prácticos para aprender programación con explicaciones breves, y enlaces de utilidad.
 
-## Como ver
-Recomendado **leer primero siempre el readme para entender el ejercicio**
-Despues intentar hacerlo por tu cuenta
-Finalmente ver el codigo solucionado, comparar y corregir 
+## Como usar
+1. **Leer primero siempre el readme** para entender el ejercicio
+2. Pensar la estructura de clases y atributos e intentar hacerlo por tu cuenta
+3. Ver el codigo, comparar y corregir 
 
 ##### 1. En el navegador
 [![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Ivanpsl/prg-ejercicios)
