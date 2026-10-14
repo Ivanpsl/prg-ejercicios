@@ -15,7 +15,7 @@ Recomendado leer primero siempre el readme para entender el ejercicio, despues i
 
 ## Dificultades
 
-| | Nivel | Para quién |
+| Tag | Nivel | Contenido |
 |---|-------|------------|
 | ![Dificultad](https://img.shields.io/badge/básico-brightgreen) | Básico | Conceptos basicos |
 | ![Dificultad](https://img.shields.io/badge/intermedio-orange) | Intermedio | Se amplian los conceptos basicos  |
